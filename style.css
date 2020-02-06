@@ -1,0 +1,48 @@
+
+p {
+	border-radius: 15px;
+	color:rgb(200,200,200);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	padding-right:200px;
+	padding-left:200px;
+	text-align: justify;
+}
+
+body {
+	background-color: rgb(25,25,112);
+	height: 100vh;
+	background-image: linear-gradient(90deg, rgb(10,35,150) 50%, rgb(25,25,112) 50%)
+}
+
+section {
+  background-color: (75,0,130);
+  border-radius:10px;
+}
+
+img {
+	border-radius: 10px;
+	border-color: rgb(179, 147, 243);
+}
+
+h1 {
+	color: rgb(229,214,243);
+	font-family: 'Bangers', serif;
+	font-size: 48px;
+	text-align: center;
+}
+
+table {
+	border-radius: 10px;
+}
+
+h3 {
+	color:rgb(229,214,243);
+	font-family: 'Bangers', serif;
+	font-size: 32px;
+	text-align: center;
+}
+
+a {
+	color: rgb(229,214,243);
+}
